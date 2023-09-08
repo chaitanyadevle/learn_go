@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hello"
+	"learn_go/hello"
 	"os"
 )
 
